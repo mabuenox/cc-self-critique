@@ -1,0 +1,9 @@
+{
+  "name": "autocritica",
+  "version": "0.2.0",
+  "description": "A pane where Claude critiques its own turn when it ends: decisions, assumptions, gaps it filled, inconsistencies, unexplored alternatives and what influenced it",
+  "author": { "name": "Miguel Ángel Bueno" },
+  "license": "MIT",
+  "repository": "https://github.com/mabuenox/cc-self-critique",
+  "types": "./types/index.d.ts"
+}

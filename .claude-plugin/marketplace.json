@@ -1,0 +1,5 @@
+{
+  "name": "cc-self-critique",
+  "owner": { "name": "Miguel Ángel Bueno" },
+  "plugins": [{ "name": "autocritica", "source": "./" }]
+}
